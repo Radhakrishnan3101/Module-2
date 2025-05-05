@@ -30,7 +30,8 @@ for i in range(1,a+1):
 
 ```
 ### OUTPUT
-```![image](https://github.com/user-attachments/assets/d7a881dd-1193-4e46-b35e-c7fe1bf30c57)
+![image](https://github.com/user-attachments/assets/c81ca9ee-7c9e-47ef-a5ec-64a0c3d7790c)
+
 
 
 ```
