@@ -18,9 +18,8 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ---
 
-### 🧾 Program
+###  Program
 
-```python
 a=int(input())
 i=1
 print("Natural Numbers are :")
@@ -28,15 +27,15 @@ for i in range(1,a+1):
     print(i)
     i=i+1
 
-```
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/c81ca9ee-7c9e-47ef-a5ec-64a0c3d7790c)
 
 
 
-```
+
 ### RESULT
-```
-Thus the natural numbers from 1 to n are printed
-```
+
+Thus the natural numbers from 1 to n are printed and code executed successfully
+
 
