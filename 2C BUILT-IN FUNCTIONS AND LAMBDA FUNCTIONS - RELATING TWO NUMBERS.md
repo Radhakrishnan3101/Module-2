@@ -20,8 +20,11 @@ To writea Python Program to  find the greatest of two numbers using lambda funct
 ### PROGRAM
 
 a=int(input())
+
 b=int(input())
+
 f=lambda a,b:max(a,b)
+
 print("The greatest number is:", f(a,b))
 
 
