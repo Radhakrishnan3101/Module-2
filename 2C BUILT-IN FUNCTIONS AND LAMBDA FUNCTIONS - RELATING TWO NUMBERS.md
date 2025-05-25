@@ -38,6 +38,6 @@ print("The greatest number is:", f(a,b))
 
 ### RESULT
 
-Thus the greatest of two numbers in found using lambda function
+Thus the greatest of two numbers in found using lambda function and code execuuted successfully
 
 
