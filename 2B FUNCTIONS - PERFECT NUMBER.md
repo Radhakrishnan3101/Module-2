@@ -1,5 +1,5 @@
 # Exp.No:2b  
-## Area of the square
+## Printing Area of the square
 
 ### AIM  
 To write a python program to define a function that accepts side of a square and returns the area of a square.
