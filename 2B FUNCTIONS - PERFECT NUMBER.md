@@ -16,7 +16,7 @@ To write a python program to define a function that accepts side of a square and
 ---
 
 ### PROGRAM
-```
+
 def area(side):
     sum=0
     sum=radius**2
@@ -24,7 +24,7 @@ def area(side):
 radius = int(input())
 
 
-```
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/2ffd897c-806d-4634-b093-1d70599fd08b)
 
