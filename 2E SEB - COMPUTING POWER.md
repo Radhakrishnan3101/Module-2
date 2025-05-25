@@ -29,12 +29,16 @@ To write a Python program that defines a function which takes three arguments an
 ### PROGRAM
 
 def mul(a,b,c):
-    f=a*b*c
-    return f
+
+f=a*b*c
+return f
     
 a=int(input())
+
 b=int(input())
+
 c=int(input())
+
 print(mul(a,b,c))
 
 ### OUTPUT
