@@ -29,4 +29,4 @@ radius = int(input())
 ![image](https://github.com/user-attachments/assets/2ffd897c-806d-4634-b093-1d70599fd08b)
 
 ### RESULT
-Thus the area of the square is found using formula
+Thus the code for finding area of the square is executed successfully.
